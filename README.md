@@ -1,5 +1,5 @@
 # ATM-dispencer
-This project gives the count of number of denominations will get for the entered amount. 
+This project gives the count of number of denominations will get for the entered amount.
 For example: If customer entered 12717 rupees, 
 
 ## output will be like this: 
